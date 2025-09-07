@@ -13,6 +13,8 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
+import java.awt.*;
+
 public class MainJavaFX extends Application {
 
     private static final String[] NOMS_EQUIPE = {"Canadiens", "Lightnings", "Bruins", "Maple Leafs"};
